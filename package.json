@@ -1,0 +1,28 @@
+{
+  "name": "ms-postprocessor-format",
+  "version": "0.0.1",
+  "description": "miaoshou postprocessor format",
+  "main": "index.js",
+  "dependencies": {
+    "js-beautify": "^1.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lys623/ms-postprocessor-format.git"
+  },
+  "keywords": [
+    "miaoshou",
+    "ms",
+    "format"
+  ],
+  "author": "61",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lys623/ms-postprocessor-format/issues"
+  },
+  "homepage": "https://github.com/lys623/ms-postprocessor-format#readme"
+}
